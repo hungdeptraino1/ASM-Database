@@ -1,0 +1,48 @@
+E:\ASM_STUDENT\StudentManagement\bin\Debug\StudentManagement.exe.config
+E:\ASM_STUDENT\StudentManagement\bin\Debug\StudentManagement.exe
+E:\ASM_STUDENT\StudentManagement\bin\Debug\StudentManagement.pdb
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.exe
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.pdb
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Login.resources
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Main.resources
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Student.resources
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Enroll.resources
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Class.resources
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Course.resources
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Department.resources
+F:\github\ShareCode\ASM_STUDENT\StudentManagement\bin\Debug\StudentManagement.exe.config
+F:\github\ShareCode\ASM_STUDENT\StudentManagement\bin\Debug\StudentManagement.exe
+F:\github\ShareCode\ASM_STUDENT\StudentManagement\bin\Debug\StudentManagement.pdb
+F:\github\ShareCode\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+F:\github\ShareCode\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Class.resources
+F:\github\ShareCode\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Course.resources
+F:\github\ShareCode\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Department.resources
+F:\github\ShareCode\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Enroll.resources
+F:\github\ShareCode\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Login.resources
+F:\github\ShareCode\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Main.resources
+F:\github\ShareCode\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+F:\github\ShareCode\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Student.resources
+F:\github\ShareCode\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+F:\github\ShareCode\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+F:\github\ShareCode\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.exe
+F:\github\ShareCode\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.pdb
+F:\bai tap\asm database\ASM_STUDENT\StudentManagement\bin\Debug\StudentManagement.exe.config
+F:\bai tap\asm database\ASM_STUDENT\StudentManagement\bin\Debug\StudentManagement.exe
+F:\bai tap\asm database\ASM_STUDENT\StudentManagement\bin\Debug\StudentManagement.pdb
+F:\bai tap\asm database\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+F:\bai tap\asm database\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Class.resources
+F:\bai tap\asm database\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Course.resources
+F:\bai tap\asm database\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Department.resources
+F:\bai tap\asm database\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Enroll.resources
+F:\bai tap\asm database\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Login.resources
+F:\bai tap\asm database\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Main.resources
+F:\bai tap\asm database\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+F:\bai tap\asm database\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Student.resources
+F:\bai tap\asm database\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+F:\bai tap\asm database\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+F:\bai tap\asm database\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.exe
+F:\bai tap\asm database\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.pdb
